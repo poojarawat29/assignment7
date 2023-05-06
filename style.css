@@ -1,0 +1,18 @@
+.container{
+    
+     display:flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+
+}
+.btnbtn-success{
+    padding: 15px 15px;
+width:10%;
+border:2px solid black;
+    border-radius: 10px ;
+    background-color:#ACB1D6;
+   
+    font-family: "Signika Negative";
+    
+}
